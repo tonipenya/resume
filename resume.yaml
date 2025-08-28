@@ -24,7 +24,9 @@ work:
     location: ""
     url: ""
     summary: ""
-    description: ""
+    description: |-
+      The team consisted of 10 members including Machine Learning Engineers, Data Scientists, Machine Learning Ops and data Labelers. The team also counted with an embedded credit risk expert and a data anlalyst.
+
     highlights: []
   - name: Universitat Internacional de Catalunya
     position: Lecturer
@@ -42,7 +44,8 @@ work:
     location: ""
     url: ""
     summary: ""
-    description: ""
+    description: |-
+      The team consisted of 9 members including Machine Learning Engineers, Data Scientists and Machine Learning Ops.
     highlights: []
   - name: Adsmurai
     position: Head of Machine Learning and Applied Research
@@ -51,7 +54,8 @@ work:
     location: ""
     url: ""
     summary: User behaviour tracking, gallery optimization, image characterization, product category classification, and time series forecasting.
-    description: ""
+    description: |-
+      The team consisted of 5 members including Machine Learning Engineers, Data Scientists and Product Owner.
     highlights: []
   - name: Adsmurai
     position: VP of Engineering
@@ -60,7 +64,8 @@ work:
     location: ""
     url: ""
     summary: Foster a cross-team trust and collaboration culture, career plan definition, salary scales definition, value delivery.
-    description: ""
+    description: |-
+      The team consisted of 25 members including distributed in 4 teams with profiles such as Frontend, Backend, DevOps, and Machine Learning.
     highlights: []
   - name: Intellingent Pharma
     position: Research Scientist
