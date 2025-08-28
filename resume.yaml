@@ -23,19 +23,28 @@ work:
     endDate: 2024-06
     location: ""
     url: ""
-    summary: ""
+    summary: "Led a cross-functional team of 10 in building and deploying machine learning solutions for credit risk, transaction categorization, and financial insights, driving scalable model training and deployment on AWS."
     description: |-
-      The team consisted of 10 members including Machine Learning Engineers, Data Scientists, Machine Learning Ops and data Labelers. The team also counted with an embedded credit risk expert and a data anlalyst.
+      Team: 10 members. Including Machine Learning Engineers, Data Scientists, Machine Learning Ops and data Labelers. The team also counted with an embedded credit risk expert and a data anlalyst.
 
-    highlights: []
+      Product: Credit risk prediction, transaction categorization, and income and expense detection.
+
+      Technology: Airflow orchestrated, Spark backed pipelines for data processing and model training. Models trained using a mix of scikit-learn, LightGBM and PyTorch. Models served with FastAPI on AWS ECS.
+    highlights:
+      - Delivered production-grade ML pipelines using Airflow, Spark, and AWS ECS, reducing model training and deployment time.
+      - Developed and deployed credit risk prediction and transaction classification models with scikit-learn, LightGBM, and PyTorch, improving predictive accuracy and business decisioning.
+      - Established ML Ops practices and team processes that streamlined collaboration across engineers, data scientists, and domain experts.
   - name: Universitat Internacional de Catalunya
     position: Lecturer
     startDate: "2022"
     endDate: "2023"
     location: ""
     url: ""
-    summary: ""
-    description: ""
+    summary: Designed and taught a graduate course on project management for biomedical research, bridging academic rigor with industry practices."
+    description: |-
+      Syllabus definition, lectures and coordination.
+
+      Course: Project management for biomedical research.
     highlights: []
   - name: Typeform
     position: Head of Machine Learning
@@ -43,64 +52,87 @@ work:
     endDate: 2022-04
     location: ""
     url: ""
-    summary: ""
+    summary: "Led a 9-person ML team delivering production-ready models for fraud detection, user behavior prediction, and NLP-driven form generation at scale."
     description: |-
-      The team consisted of 9 members including Machine Learning Engineers, Data Scientists and Machine Learning Ops.
-    highlights: []
+      Team: 9 members. Including Machine Learning Engineers, Data Scientists and Machine Learning Ops.
+
+      Product: Spam and fraund detection, user behaviour prediction, form template generation, natural language to form conversion.
+
+      Technology: Airflow orchestrated, Spark based pipelines for model training. Models trained using a mix of scikit-learn, off-the-shelf hugging-face models, XGBoost and Tensorflow. Models served realtime via FastAPI, as part of Kafka streams and in batch using Spark on AWS.
+    highlights:
+      - "Built and deployed real-time fraud and spam detection models, reducing fraudulent activity and improving platform trust."
+      - "Launched NLP-powered features including natural language to form conversion and automated template generation, enhancing user engagement."
+      - "Established scalable ML infrastructure with Airflow, Spark, FastAPI, Kafka, and AWS, enabling both real-time and batch model serving."
   - name: Adsmurai
     position: Head of Machine Learning and Applied Research
     startDate: 2018-01
     endDate: 2021-04
     location: ""
     url: ""
-    summary: User behaviour tracking, gallery optimization, image characterization, product category classification, and time series forecasting.
+    summary: "Directed a 6-person applied research team to deliver computer vision and predictive modeling solutions for ad optimization and performance forecasting."
     description: |-
-      The team consisted of 5 members including Machine Learning Engineers, Data Scientists and Product Owner.
-    highlights: []
+      Team: 6 members. Including Machine Learning Engineers, Data Engineer, and Product Owner.
+
+      Product: Gallery optimisation, image characterisation, product category classification, and ad performance forecasting.
+
+      Technology: Airflow ochestrated data extraction and processing from partners APIs. Models trained using a mix of scikit-learn, openCV, and Tensorflow. Models served with Flask on AWS ECS.
+    highlights:
+      - "Developed image characterization and product category classification models using scikit-learn and OpenCV, improving ad relevance and engagement."
+      - "Delivered ad performance forecasting models that enabled more efficient campaign planning and budget allocation."
+      - "Built data pipelines with Airflow to extract and process large-scale partner API data, ensuring reliable and scalable ML workflows."
   - name: Adsmurai
     position: VP of Engineering
     startDate: "2018"
     endDate: "2020"
     location: ""
     url: ""
-    summary: Foster a cross-team trust and collaboration culture, career plan definition, salary scales definition, value delivery.
+    summary: "Led 25 engineers across 4 teams, driving culture, career development, and scalable value delivery."
     description: |-
-      The team consisted of 25 members including distributed in 4 teams with profiles such as Frontend, Backend, DevOps, and Machine Learning.
-    highlights: []
+      Foster a cross-team trust and collaboration culture, career plan definition, salary scales definition, value delivery.
+
+      Team: 25 members. Including distributed in 4 teams with profiles such as Frontend, Backend, DevOps, and Machine Learning.
+    highlights:
+      - "Defined career paths and salary frameworks, improving retention and team growth."
+      - "Fostered cross-team collaboration and trust, boosting delivery efficiency."
+      - "Scaled engineering practices to support product growth and innovation."
   - name: Intellingent Pharma
     position: Research Scientist
     startDate: "2015"
     endDate: "2018"
     location: ""
     url: ""
-    summary: ""
+    summary: "Applied AI to drug discovery, developing predictive models for targets and drug-drug interactions"
     description: |-
       Intelligent Pharma is a company specialised in in-silico research applied to drug discovery and development. The company offers computer-assisted drug design services to discover, enhance and study drugs and drug candidates.
 
       In Intelligent Pharma, I apply my background on artificial intelligence to develop new tools to broaden the range of services the company offers. Lately, I have been working on the following interesting projects:
       - Apply deep neural networks to predict targets.
       - Apply random forests to predict drug-drug interactions.
-    highlights: []
+    highlights:
+      - "Built deep learning models for target prediction."
+      - "Applied random forests to drug-drug interaction prediction."
   - name: Babelboo
     position: Co-Founder
     startDate: "2014"
     endDate: "2015"
     location: ""
     url: ""
-    summary: ""
+    summary: "Co-founded an English learning startup using video-based personalized content."
     description: |-
       Product development, UX, customer acquisition and sleepless hacking nights.
 
       Babelboo is an English learning platform based on native content videos. In Babelboo, you learn English by watching videos that match your interests. Also, the dificulty of the videos is specifically targeted to match your comprehension skills. Have fun, learn English.
-    highlights: []
+    highlights:
+      - "Led product design, UX, and early customer acquisition."
+      - "Developed adaptive content recommendation system."
   - name: IIIA-CSIC
     position: PhD Candidate
     startDate: "2011"
     endDate: "2014"
     location: ""
     url: ""
-    summary: Robust resource allocation in multi-agent systems.
-    description: ""
+    summary: "Researched distributed algorithms for robust resource allocation in multi-agent systems."
+    description: "Robust resource allocation in multi-agent systems. Distributed algorithms for optimization."
     highlights: []
   - name: Lotary Ltd.
     position: Information Technology Manager
@@ -108,7 +140,7 @@ work:
     endDate: 2010-11
     location: ""
     url: ""
-    summary: ""
+    summary: "Set up IT infrastructure, processes, and tools for Festina Group’s Asian branch. Created and lead sofware development and IT support teams."
     description: |-
       Lotary Ltd. is the is the Asian branch (with headquarters in Hong Kong and Shenzhen) of Festina Group, in charge of the R&D and production processes of the group. After graduating I was appointed with the task of creating the human IT infrastructure for the company using the knowledge and standards acquired in the past years working for the group.
 
@@ -128,7 +160,7 @@ work:
     endDate: "2009"
     location: ""
     url: ""
-    summary: ""
+    summary: "Developed enterprise applications and ERP integrations for watch manufacturing and sales"
     description: |-
       Festina Group is a watch company which, in 2007, decided to create a software development team to take care of the company needs. The team was created using most of the employees of its former consultancy. While working for Festina Group I was assigned to the Java team, newly created to establish the foundations for the future software development strategy of the company. In that period I was involved in the development of two tools:
 
@@ -165,7 +197,7 @@ work:
     endDate: "2004"
     location: ""
     url: ""
-    summary: ""
+    summary: "Built web components and client-side features for a drag-and-drop site creation platform."
     description: |-
       Visualmoon was an innovative company doing research into the integration of server side and client side tools for the development of dynamic content user-generated web pages. The main product of the company was an online web creation tool that allowed the users create their own sites using a simple component drag-and-drop system.
 
