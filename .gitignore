@@ -1,2 +1,5 @@
-node_modules
-resume.pdf
+.DS_Store
+.python-version
+rendercv_output
+classic
+markdown
