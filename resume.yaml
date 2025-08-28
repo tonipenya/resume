@@ -73,13 +73,13 @@ work:
     endDate: "2018"
     location: ""
     url: ""
-    summary: |-
+    summary: ""
+    description: |-
       Intelligent Pharma is a company specialised in in-silico research applied to drug discovery and development. The company offers computer-assisted drug design services to discover, enhance and study drugs and drug candidates.
 
       In Intelligent Pharma, I apply my background on artificial intelligence to develop new tools to broaden the range of services the company offers. Lately, I have been working on the following interesting projects:
       - Apply deep neural networks to predict targets.
       - Apply random forests to predict drug-drug interactions.
-    description: ""
     highlights: []
   - name: Babelboo
     position: Co-Founder
@@ -87,11 +87,11 @@ work:
     endDate: "2015"
     location: ""
     url: ""
-    summary: |-
+    summary: ""
+    description: |-
       Product development, UX, customer acquisition and sleepless hacking nights.
 
       Babelboo is an English learning platform based on native content videos. In Babelboo, you learn English by watching videos that match your interests. Also, the dificulty of the videos is specifically targeted to match your comprehension skills. Have fun, learn English.
-    description: ""
     highlights: []
   - name: IIIA-CSIC
     position: PhD Candidate
@@ -108,7 +108,8 @@ work:
     endDate: 2010-11
     location: ""
     url: ""
-    summary: |-
+    summary: ""
+    description: |-
       Lotary Ltd. is the is the Asian branch (with headquarters in Hong Kong and Shenzhen) of Festina Group, in charge of the R&D and production processes of the group. After graduating I was appointed with the task of creating the human IT infrastructure for the company using the knowledge and standards acquired in the past years working for the group.
 
       My main duties had been:
@@ -120,7 +121,6 @@ work:
       - Lead the creation of a wage estimation tool according to the employee production.
       - Lead the creation of a tool to track hardware and machinery inventory, repair and maintenance processes.
       - Mediator between Asian and European branches for the maintenance of the ERP system.
-    description: ""
     highlights: []
   - name: Festina Group
     position: Software engineer
@@ -128,7 +128,8 @@ work:
     endDate: "2009"
     location: ""
     url: ""
-    summary: |-
+    summary: ""
+    description: |-
       Festina Group is a watch company which, in 2007, decided to create a software development team to take care of the company needs. The team was created using most of the employees of its former consultancy. While working for Festina Group I was assigned to the Java team, newly created to establish the foundations for the future software development strategy of the company. In that period I was involved in the development of two tools:
 
       As a engineer in lead in the development of a web portal for the consultation of the technical information of the watches. This application integrated as well a shopping module that enabled workshops to purchase the parts they needed and consult past orders. My duties in that project were:
@@ -157,7 +158,6 @@ work:
       - BASIC and JBase DB for the core, GUI and report engine of the ERP system.
       - Perl as middleware connecting different ERP installations and report exporting tool.
       - HTML/CSS for the delivery of invoices and purchase orders to the customers.
-    description: ""
     highlights: []
   - name: Visualmoon
     position: Software Developer
@@ -165,7 +165,8 @@ work:
     endDate: "2004"
     location: ""
     url: ""
-    summary: |-
+    summary: ""
+    description: |-
       Visualmoon was an innovative company doing research into the integration of server side and client side tools for the development of dynamic content user-generated web pages. The main product of the company was an online web creation tool that allowed the users create their own sites using a simple component drag-and-drop system.
 
       My duties as a programmer:
@@ -176,7 +177,6 @@ work:
       The technologies used:
       - PHP+MySQL in the server side for data processing.
       - Actionscript in the client side for the rendering of the web pages, processing of the server information and the creation tool.
-    description: ""
     highlights: []
 volunteer: []
 education:
