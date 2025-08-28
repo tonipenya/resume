@@ -17,7 +17,7 @@ cv:
 
       - institution: Universitat Politècnica de Catalunya
         area: Artificial Intelligence
-        degree: Msc
+        degree: MSc
         start_date: 2011
         end_date: 2012
 
@@ -33,11 +33,11 @@ cv:
         end_date: 2024-06
         summary: "Led a cross-functional team of 10 in building and deploying machine learning solutions for credit risk, transaction categorization, and financial insights, driving scalable model training and deployment on AWS."
         description: |-
-          Team: 10 members. Including Machine Learning Engineers, Data Scientists, Machine Learning Ops and data Labelers. The team also counted with an embedded credit risk expert and a data anlalyst.
+          Team: 10 members. Including Machine Learning Engineers, Data Scientists, Machine Learning Ops and Data Labelers. The team also included an embedded credit risk expert and a data analyst.
 
           Product: Credit risk prediction, transaction categorization, and income and expense detection.
 
-          Technology: Airflow orchestrated, Spark backed pipelines for data processing and model training. Models trained using a mix of scikit-learn, LightGBM and PyTorch. Models served with FastAPI on AWS ECS.
+          Technology: Airflow-orchestrated, Spark-backed pipelines for data processing and model training. Models trained using a mix of scikit-learn, LightGBM and PyTorch. Models served with FastAPI on AWS ECS.
         highlights:
           - Delivered production-grade ML pipelines using Airflow, Spark, and AWS ECS, reducing model training and deployment time.
           - Developed and deployed credit risk prediction and transaction classification models with scikit-learn, LightGBM, and PyTorch, improving predictive accuracy and business decisioning.
@@ -46,7 +46,7 @@ cv:
         position: Lecturer
         start_date: "2022-09"
         end_date: "2023-03"
-        summary: Designed and taught a graduate course on project management for biomedical research, bridging academic rigor with industry practices."
+        summary: "Designed and taught a graduate course on project management for biomedical research, bridging academic rigor with industry practices."
         description: |-
           Syllabus definition, lectures and coordination.
 
@@ -60,9 +60,9 @@ cv:
         description: |-
           Team: 9 members. Including Machine Learning Engineers, Data Scientists and Machine Learning Ops.
 
-          Product: Spam and fraund detection, user behaviour prediction, form template generation, natural language to form conversion.
+          Product: Spam and fraud detection, user behavior prediction, form template generation, natural language to form conversion.
 
-          Technology: Airflow orchestrated, Spark based pipelines for model training. Models trained using a mix of scikit-learn, off-the-shelf hugging-face models, XGBoost and Tensorflow. Models served realtime via FastAPI, as part of Kafka streams and in batch using Spark on AWS.
+          Technology: Airflow-orchestrated, Spark-based pipelines for model training. Models trained using a mix of scikit-learn, off-the-shelf Hugging Face models, XGBoost and TensorFlow. Models served realtime via FastAPI, as part of Kafka streams and in batch using Spark on AWS.
         highlights:
           - "Built and deployed real-time fraud and spam detection models, reducing fraudulent activity and improving platform trust."
           - "Launched NLP-powered features including natural language to form conversion and automated template generation, enhancing user engagement."
@@ -73,11 +73,11 @@ cv:
         end_date: 2021-04
         summary: "Directed a 6-person applied research team to deliver computer vision and predictive modeling solutions for ad optimization and performance forecasting."
         description: |-
-          Team: 6 members. Including Machine Learning Engineers, Data Engineer, and Product Owner.
+          Team: 6 members. Including Machine Learning Engineers, a Data Engineer, and a Product Owner.
 
-          Product: Gallery optimisation, image characterisation, product category classification, and ad performance forecasting.
+          Product: Gallery optimization, image characterization, product category classification, and ad performance forecasting.
 
-          Technology: Airflow ochestrated data extraction and processing from partners APIs. Models trained using a mix of scikit-learn, openCV, and Tensorflow. Models served with Flask on AWS ECS.
+          Technology: Airflow-orchestrated data extraction and processing from partners' APIs. Models trained using a mix of scikit-learn, OpenCV, and TensorFlow. Models served with Flask on AWS ECS.
         highlights:
           - "Developed image characterization and product category classification models using scikit-learn and OpenCV, improving ad relevance and engagement."
           - "Delivered ad performance forecasting models that enabled more efficient campaign planning and budget allocation."
@@ -88,24 +88,24 @@ cv:
         end_date: "2020-01"
         summary: "Led 25 engineers across 4 teams, driving culture, career development, and scalable value delivery."
         description: |-
-          Foster a cross-team trust and collaboration culture, career plan definition, salary scales definition, value delivery.
+          Fostered a cross-team trust and collaboration culture, career plan definition, salary scales definition, and value delivery.
 
-          Team: 25 members. Including distributed in 4 teams with profiles such as Frontend, Backend, DevOps, and Machine Learning.
+          Team: 25 members distributed across 4 teams with profiles such as Frontend, Backend, DevOps, and Machine Learning.
         highlights:
           - "Defined career paths and salary frameworks, improving retention and team growth."
           - "Fostered cross-team collaboration and trust, boosting delivery efficiency."
           - "Scaled engineering practices to support product growth and innovation."
-      - company: Intellingent Pharma
+      - company: Intelligent Pharma
         position: Research Scientist
         start_date: "2015-05"
         end_date: "2018-01"
-        summary: "Applied AI to drug discovery, developing predictive models for targets and drug-drug interactions"
+        summary: "Applied AI to drug discovery, developing predictive models for targets and drug-drug interactions."
         description: |-
           Intelligent Pharma is a company specialised in in-silico research applied to drug discovery and development. The company offers computer-assisted drug design services to discover, enhance and study drugs and drug candidates.
 
-          In Intelligent Pharma, I apply my background on artificial intelligence to develop new tools to broaden the range of services the company offers. Lately, I have been working on the following interesting projects:
-          - Apply deep neural networks to predict targets.
-          - Apply random forests to predict drug-drug interactions.
+          At Intelligent Pharma, I applied my background in artificial intelligence to develop new tools to broaden the range of services the company offers. Projects included:
+          - Applying deep neural networks to predict targets.
+          - Applying random forests to predict drug-drug interactions.
         highlights:
           - "Built deep learning models for target prediction."
           - "Applied random forests to drug-drug interaction prediction."
@@ -117,7 +117,7 @@ cv:
         description: |-
           Product development, UX, customer acquisition and sleepless hacking nights.
 
-          Babelboo is an English learning platform based on native content videos. In Babelboo, you learn English by watching videos that match your interests. Also, the dificulty of the videos is specifically targeted to match your comprehension skills. Have fun, learn English.
+          Babelboo is an English learning platform based on native content videos. In Babelboo, you learn English by watching videos that match your interests. The difficulty of the videos is specifically targeted to match your comprehension skills. Have fun, learn English.
         highlights:
           - "Led product design, UX, and early customer acquisition."
           - "Developed adaptive content recommendation system."
@@ -132,44 +132,44 @@ cv:
         position: Information Technology Manager
         start_date: 2009-04
         end_date: 2010-11
-        summary: "Set up IT infrastructure, processes, and tools for Festina Group’s Asian branch. Created and lead sofware development and IT support teams."
+        summary: "Set up IT infrastructure, processes, and tools for Festina Group’s Asian branch. Created and led software development and IT support teams."
         description: |-
-          Lotary Ltd. is the is the Asian branch (with headquarters in Hong Kong and Shenzhen) of Festina Group, in charge of the R&D and production processes of the group. After graduating I was appointed with the task of creating the human IT infrastructure for the company using the knowledge and standards acquired in the past years working for the group.
+          Lotary Ltd. is the Asian branch (with headquarters in Hong Kong and Shenzhen) of Festina Group, in charge of the R&D and production processes of the group. After graduating I was appointed with the task of creating the IT infrastructure for the company using the knowledge and standards acquired in the past years working for the group.
 
-          My main duties had been:
+          My main duties:
           - Define monitoring and recovery procedures.
           - Define configuration, software development process and software quality standards.
           - Recruit and train the team, both software and hardware.
           - Migration of the main storage system to a network attached storage.
           - Creation of a trusted network storage system and policies.
-          - Lead the creation of a wage estimation tool according to the employee production.
-          - Lead the creation of a tool to track hardware and machinery inventory, repair and maintenance processes.
-          - Mediator between Asian and European branches for the maintenance of the ERP system.
+          - Led the creation of a wage estimation tool according to employee production.
+          - Led the creation of a tool to track hardware and machinery inventory, repair and maintenance processes.
+          - Mediated between Asian and European branches for the maintenance of the ERP system.
         highlights: []
       - company: Festina Group
-        position: Software engineer
+        position: Software Engineer
         start_date: "2005-09"
         end_date: "2009-04"
-        summary: "Developed enterprise applications and ERP integrations for watch manufacturing and sales"
+        summary: "Developed enterprise applications and ERP integrations for watch manufacturing and sales."
         description: |-
           Festina Group is a watch company which, in 2007, decided to create a software development team to take care of the company needs. The team was created using most of the employees of its former consultancy. While working for Festina Group I was assigned to the Java team, newly created to establish the foundations for the future software development strategy of the company. In that period I was involved in the development of two tools:
 
-          As a engineer in lead in the development of a web portal for the consultation of the technical information of the watches. This application integrated as well a shopping module that enabled workshops to purchase the parts they needed and consult past orders. My duties in that project were:
-          - Design the application architecture.
-          - Definition of the MYSQL database structure.
-          - Implementation the user interface using JSF framework and ICEfaces component suit.
-          - Implementation of the business logic and synchronization procedures using EJB3, JPA and our own API to access the ERP system.
-          - Follow up and coordinate the tasks being done by the other members of the team.
+          As an engineer, I led the development of a web portal for the consultation of the technical information of the watches. This application also integrated a shopping module that enabled workshops to purchase the parts they needed and consult past orders. My duties included:
+          - Designing the application architecture.
+          - Defining the MYSQL database structure.
+          - Implementing the user interface using JSF framework and ICEfaces component suite.
+          - Implementing the business logic and synchronization procedures using EJB3, JPA and our own API to access the ERP system.
+          - Following up and coordinating the tasks being done by other members of the team.
 
-          As a engineer in a standalone POS tool for the sales department. Prices, purchase orders, customer information, product description and images are remotely synchronized with the server via internet. My duties in that project were:
-          - Definition of the architecture of the application.
-          - Implementation of the user interfaces using swing.
-          - Design and implementation of the client database and persistence using HSQLDB embedded database and Toplink JPA.
-          - Implementation of the synchronization process between client and server using EJB3, web services and Toplink JPA.
+          I was also an engineer in a standalone POS tool for the sales department. Prices, purchase orders, customer information, product descriptions and images were remotely synchronized with the server via internet. My duties included:
+          - Defining the architecture of the application.
+          - Implementing the user interfaces using Swing.
+          - Designing and implementing the client database and persistence using HSQLDB embedded database and Toplink JPA.
+          - Implementing the synchronization process between client and server using EJB3, web services and Toplink JPA.
 
           ---
 
-          Multi-acces is an IT consultancy company providing integral services (from printers and hardware to tailor made ERP software). There I was trained for developing applications using their ERP system (Jbase a Pick derivate). For the two years expended in that company I was assigned to the team giving service to Festina Group. In that time I was exposed to all the aspects of the application (accounting, sales, statistics, customer, data definition, ...).
+          Multi-acces is an IT consultancy company providing integral services (from printers and hardware to tailor-made ERP software). There I was trained in developing applications using their ERP system (Jbase, a Pick derivative). For the two years spent in that company I was assigned to the team giving service to Festina Group. In that time I was exposed to all aspects of the application (accounting, sales, statistics, customer, data definition, ...).
 
           My main duties:
           - Code maintenance.
@@ -187,7 +187,7 @@ cv:
         end_date: "2004"
         summary: "Built web components and client-side features for a drag-and-drop site creation platform."
         description: |-
-          Visualmoon was an innovative company doing research into the integration of server side and client side tools for the development of dynamic content user-generated web pages. The main product of the company was an online web creation tool that allowed the users create their own sites using a simple component drag-and-drop system.
+          Visualmoon was an innovative company doing research into the integration of server-side and client-side tools for the development of dynamic content user-generated web pages. The main product of the company was an online web creation tool that allowed users to create their own sites using a simple component drag-and-drop system.
 
           My duties as a programmer:
           - Design of new components for the web (automated chart engines, select-many boxes, web creation wizards, …)
@@ -195,24 +195,24 @@ cv:
           - Maintenance of the user database and the registration process.
 
           The technologies used:
-          - PHP+MySQL in the server side for data processing.
-          - Actionscript in the client side for the rendering of the web pages, processing of the server information and the creation tool.
+          - PHP+MySQL on the server side for data processing.
+          - Actionscript on the client side for the rendering of the web pages, processing of the server information and the creation tool.
         highlights: []
     skills:
-    - label: Machine Learning
-      details: "Deep learning, NLP, computer vision, gradient boosting, credit risk modeling, and forecasting."
+      - label: Machine Learning
+        details: "Deep learning, NLP, computer vision, gradient boosting, credit risk modeling, and forecasting."
 
-    - label: Data Engineering & MLOps
-      details: "Airflow, Spark, Kafka, model serving (FastAPI/Flask), AWS Cloud, CI/CD, and monitoring."
+      - label: Data Engineering & MLOps
+        details: "Airflow, Spark, Kafka, model serving (FastAPI/Flask), AWS Cloud, CI/CD, and monitoring."
 
-    - label: Leadership
-      details: "Team building and mentorship, career frameworks, cross-functional collaboration, scaling engineering teams."
+      - label: Leadership
+        details: "Team building and mentorship, career frameworks, cross-functional collaboration, scaling engineering teams."
 
-    - label: Software Engineering
-      details: "Python, Scala, C++, APIs, microservices, distributed systems, and DevOps practices."
+      - label: Software Engineering
+        details: "Python, Scala, C++, APIs, microservices, distributed systems, and DevOps practices."
 
-    - label: Innovation & Strategy
-      details: "Product development, startup growth, applied research, and academic collaboration."
+      - label: Innovation & Strategy
+        details: "Product development, startup growth, applied research, and academic collaboration."
 design:
   theme: classic
   page:
@@ -335,10 +335,10 @@ locale:
     - Mar
     - Apr
     - May
-    - June
-    - July
+    - Jun
+    - Jul
     - Aug
-    - Sept
+    - Sep
     - Oct
     - Nov
     - Dec
