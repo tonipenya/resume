@@ -8,8 +8,6 @@ cv:
     - network: LinkedIn
       username: tonipenya
   sections:
-    About:
-      - Enabling awesome teams to create great AI and Machine Learning products.
     education:
       - institution: Universitat de Barcelona
         area: Artificial Intelligence
