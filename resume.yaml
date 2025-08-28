@@ -236,18 +236,40 @@ education:
 awards: []
 publications: []
 skills:
-  - name: Inventing
-    level: Master
+  - name: Machine Learning
     keywords:
-      - Electricity
-      - Sound Recording
-      - Motion Pictures
-  - name: Entrepreneurship
-    level: Expert
+      - Deep Learning
+      - NLP & Computer Vision
+      - Gradient Boosting
+      - Credit Risk & Forecasting
+
+  - name: Data Engineering & MLOps
     keywords:
-      - Business Development
-      - Product Innovation
-      - Industrial Research
+      - Airflow, Spark & Kafka
+      - Model Serving
+      - AWS Cloud
+      - CI/CD & Monitoring
+
+  - name: Leadership
+    keywords:
+      - Team Building & Mentorship
+      - Career Frameworks
+      - Cross-Functional Collaboration
+      - Scaling Engineering Teams
+
+  - name: Software Engineering
+    keywords:
+      - Python, Scala, C++
+      - APIs & Microservices
+      - Distributed Systems
+      - DevOps Practices
+
+  - name: Innovation & Strategy
+    keywords:
+      - Product Development
+      - Startup Growth
+      - Applied Research
+      - Academic Collaboration
 languages:
   - language: English
     fluency: Fluent
