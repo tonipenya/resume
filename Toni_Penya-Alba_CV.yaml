@@ -225,7 +225,7 @@ design:
     left_margin: 2cm
     right_margin: 2cm
     show_page_numbering: true
-    show_last_updated_date: true
+    show_last_updated_date: false
   colors:
     text: rgb(0, 0, 0)
     name: rgb(0, 79, 144)
@@ -325,13 +325,13 @@ locale:
   phone_number_format: national
   page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
   last_updated_date_template: Last updated in TODAY
-  date_template: MONTH_ABBREVIATION YEAR
+  date_template: YEAR-MONTH_IN_TWO_DIGITS
   month: month
   months: months
   year: year
   years: years
   present: present
-  to: –
+  to: "/"
   abbreviations_for_months:
     - Jan
     - Feb
