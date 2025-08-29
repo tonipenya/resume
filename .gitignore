@@ -1,6 +1,6 @@
 .DS_Store
 .python-version
-rendercv_output
+output
 classic/*
 markdown/*
 # Inculed modified output templates for deploy

@@ -2,4 +2,8 @@
 set -e
 
 echo "Exporting to PDF"
-rendercv render Toni_Penya-Alba_CV.yaml
+rendercv render                           \
+    --output-folder-name output           \
+    --pdf-path output/tonipenya.pdf \
+    --html-path output/index.html         \
+    Toni_Penya-Alba_CV.yaml

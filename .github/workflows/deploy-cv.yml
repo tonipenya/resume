@@ -29,16 +29,13 @@ jobs:
       - name: Run build script
         run: ./build.sh
 
-      - name: Create index.html
-        run: cp rendercv_output/Toni_Penya-Alba_CV.html rendercv_output/index.html
-
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Upload CV site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: rendercv_output
+          path: output
 
       - name: Deploy to GitHub Pages
         id: deployment
