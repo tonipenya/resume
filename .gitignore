@@ -1,5 +1,8 @@
 .DS_Store
 .python-version
 rendercv_output
-classic
-markdown
+classic/*
+markdown/*
+# Inculed modified output templates for deploy
+!markdown/ExperienceEntry.j2.md
+!markdown/EducationEntry.j2.md

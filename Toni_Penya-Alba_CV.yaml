@@ -283,7 +283,7 @@ design:
     one_line_entry:
       template: "**LABEL:** DETAILS"
     education_entry:
-      main_column_first_row_template: "**INSTITUTION**, AREA"
+      main_column_first_row_template: "**AREA**, INSTITUTION"
       degree_column_template: "**DEGREE**"
       degree_column_width: 2cm
       main_column_second_row_template: |-
