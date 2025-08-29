@@ -8,24 +8,9 @@ cv:
     - network: LinkedIn
       username: tonipenya
   sections:
-    education:
-      - institution: Universitat de Barcelona
-        area: Artificial Intelligence
-        degree: PhD
-        start_date: 2012
-        end_date: 2014
-
-      - institution: Universitat Politècnica de Catalunya
-        area: Artificial Intelligence
-        degree: MSc
-        start_date: 2011
-        end_date: 2012
-
-      - institution: Universitat Autònoma de Barcelona
-        area: Computer Science
-        degree: Engineering
-        start_date: 2002
-        end_date: 2009
+    about:
+      - AI & Machine Learning leader with 10+ years of experience delivering production-ready models and scalable ML systems. Experienced in building and mentoring high-performing teams, defining career frameworks, and fostering a culture of collaboration and innovation.
+      - Beyond the technical, I contribute at the strategic level—aligning AI initiatives with business goals, shaping product direction, and scaling engineering practices to support company growth. Passionate about transforming data into impactful products while empowering teams to thrive.
     experience:
       - company: Belvo
         position: Senior Machine Learning Engineering Manager
@@ -198,6 +183,24 @@ cv:
           - PHP+MySQL on the server side for data processing.
           - Actionscript on the client side for the rendering of the web pages, processing of the server information and the creation tool.
         highlights: []
+    education:
+      - institution: Universitat de Barcelona
+        area: Artificial Intelligence
+        degree: PhD
+        start_date: 2012
+        end_date: 2014
+
+      - institution: Universitat Politècnica de Catalunya
+        area: Artificial Intelligence
+        degree: MSc
+        start_date: 2011
+        end_date: 2012
+
+      - institution: Universitat Autònoma de Barcelona
+        area: Computer Science
+        degree: Engineering
+        start_date: 2002
+        end_date: 2009
     skills:
       - label: Machine Learning
         details: "Deep learning, NLP, computer vision, gradient boosting, credit risk modeling, and forecasting."
