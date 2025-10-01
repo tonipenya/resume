@@ -216,6 +216,9 @@ cv:
 
       - label: Innovation & Strategy
         details: "Product development, startup growth, applied research, and academic collaboration."
+      - label: Languages
+        details: "Spanish & Catalan (native), English (fluent)"
+
 design:
   theme: classic
   page:
