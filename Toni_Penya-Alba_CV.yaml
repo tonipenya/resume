@@ -203,7 +203,7 @@ cv:
         end_date: 2009
     skills:
       - label: Machine Learning
-        details: "Deep learning, NLP, computer vision, gradient boosting, credit risk modeling, and forecasting."
+        details: "Deep learning, PyTorch, TensorFlow, NLP, LLMs, computer vision, gradient boosting, credit risk modeling, and forecasting."
 
       - label: Data Engineering & MLOps
         details: "Airflow, Spark, Kafka, model serving (FastAPI/Flask), AWS Cloud, CI/CD, and monitoring."
