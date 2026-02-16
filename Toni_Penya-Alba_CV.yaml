@@ -7,6 +7,8 @@ cv:
   social_networks:
     - network: LinkedIn
       username: tonipenya
+    - network: GitHub
+      username: tonipenya
   sections:
     about:
       - AI & Machine Learning leader with 10+ years of experience delivering production-ready models and scalable ML systems. Experienced in building and mentoring high-performing teams, defining career frameworks, and fostering a culture of collaboration and innovation.
